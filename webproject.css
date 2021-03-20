@@ -1,0 +1,48 @@
+.card{
+    margin-right: 100px;
+    margin-left: 100px;
+    backdrop-filter: blur(2px);
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top:0px;
+    padding-bottom: 20px;
+    height: 30px;
+}
+
+.card :hover{
+    font-weight: bold;
+}
+
+.jumbotron{
+    
+    margin-left: 40px;
+    padding: 40px;
+    background: none;
+}
+
+nav div{
+    
+    margin-right: 20px;
+    font-size: 18px;
+    
+    color: white;
+    
+}
+nav div a:hover{
+    
+    text-decoration:none ;
+    
+}
+nav div:hover{
+    font-weight: bold;
+    font-size: 20px;
+    ;
+}
+nav{
+    margin: 0px;
+    padding: 5px;
+    ;
+}
+
+
